@@ -68,7 +68,7 @@ use: getStyleLoaders({ importLoaders: 2 }).concat({
 
 #### 02) 컴포넌트 설계 방식
 
-01. 디렉터리 만들기
+01. 디렉토리 만들기
 
 02. 자바스크립트 파일 만들기
 
