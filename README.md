@@ -4,14 +4,14 @@
 
 ### (01) 프로젝트 스택
 
-- Language : HTML5, CSS3, Javascript
-- Framework: React
-- CSS in JS : SASS
+- **Language** : HTML5, CSS3, Javascript
+- **Framework** : React
+- **CSS in JS** : SASS
 
 ### (02) 리액트 개발 환경 설정
 
-- ``` npm install react react-dom ``` 리액트 환경을 설치하는 npm 명령어
-- ``` npm install create-react-app ``` Create-React-App을 설치하는 npm 명령어
+- ``` npm install react react-dom ``` : 리액트 환경을 설치하는 npm 명령어
+- ``` npm install create-react-app ``` : Create-React-App을 설치하는 npm 명령어
 
 ### (03) 프로젝트 설정
 
@@ -151,6 +151,7 @@ module.exports = {
             02) 리스트 컴포넌트 내부에 있는 아이템 컴포넌트 일 때
 
             03) 하위 컴포넌트 개수가 많으며, 리 렌더링 되지 말아야 할 상황에서도 리렌더링이 진행될 때
+
 
 ## 03. 프로젝트 고찰
 
