@@ -45,7 +45,7 @@ use: getStyleLoaders({ importLoaders: 2 }).concat({
 ```javascript
 module.exports = {
     (...),
-    styles: resolveApp('src/styles');
+    styles: resolveApp('src/styles')
 }
 ```
 
